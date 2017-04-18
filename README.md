@@ -94,3 +94,4 @@ For example, simply edit `$main-color` to change the Riyu's main color scheme (r
 ## License
 
 MIT
+Neat
