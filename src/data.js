@@ -1,10 +1,10 @@
 module.exports = {
-  title: 'John Smith',
-  header: "Hi, I'm John Smith",
-  description: "I'm a college junior currently taking up Computer Science in University X. I'm a freelance developer with 4 years of experience, having worked with clients such as X, Y, Z. I enjoy building everything from small business sites to rich interactive web apps.",
-  name: 'John Smith',
+  title: 'Royce Rogers',
+  header: "Hi, I'm Royce Rogers",
+  description: "I'm a developer currently teaching game development at Johnson County Community College. I'm a freelance developer with 3 years of experience, having worked with clients and developed personal projects. I enjoy building everything from small business applications to large games.",
+  name: 'Royce Rogers',
   footerTitle: 'Software Engineer',
-  email: 'johnsmith@mail.com',
+  email: 'me@roycerogers.com',
   cta: {
     label: 'Get my resume',
     url: 'resume.pdf',
@@ -19,11 +19,11 @@ module.exports = {
   ],
   projects: [
     {
-      name: 'Combustion',
-      description: 'Combustion is a sleek, modern web client for the transmission bittorrent client.',
-      tags: ['React', 'Javascript', 'Webpack', 'Mobx', 'CSSModules'],
-      alt: 'Combustion Screenshot', // alt description of image for accessibility. defaults to '{{name}} Screenshot'
-      img: 'combustion.png',
+      name: 'ZenFold',
+      description: 'ZenFold is a mobile game in which the player fold pieces to match a goal shape.',
+      tags: ['Unity', 'C#', 'Android', 'iOs'],
+      alt: 'ZenFold Screenshot', // alt description of image for accessibility. defaults to '{{name}} Screenshot'
+      img: '2 - Puzzle.png',
       url: '//'
     },
     {
